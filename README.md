@@ -4,6 +4,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Boolean
 - 📫 How to reach me: <a>email nico17022001boolean@gmail.com</a>
+- This is my web portfolio <a>https://www.ndmdev.it</a>
 
 <h3 align="left">My skills & tools:</h3>
 <p align="left">
