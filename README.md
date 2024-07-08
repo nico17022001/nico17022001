@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working at <a href="https://www.sieltre.it/it">SielTre </a>
+- 🔭 I’m currently working in this company <a href="https://www.sieltre.it/it">SielTre </a>
 - 📫 How to reach me: <a>email nico17022001boolean@gmail.com</a>
 - This is my web portfolio <a>https://www.ndmdev.it</a>
 
